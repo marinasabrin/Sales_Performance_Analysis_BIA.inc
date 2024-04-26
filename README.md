@@ -1,5 +1,5 @@
 # BIA-Inc.-Sales-Performance-Analysis
-A Business Intelligence Project completed for the University of Newcastle. The Project Analyses Sales performance of BIA Inc. (virtual company) and Establishes KPI for Branch Performance
+This project, conducted for the University of Newcastle, focused on analyzing the sales performance of BIA Incorporated, a virtual company, to establish key performance indicators (KPIs) for evaluating branch performance. The project aimed to enhance the existing data model to support detailed performance analysis, identify trends, and provide actionable recommendations for improving sales and operational efficiency.
 
 ## Please Read The Report File for Details
 

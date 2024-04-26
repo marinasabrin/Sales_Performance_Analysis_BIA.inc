@@ -3,33 +3,31 @@ A Business Intelligence Project completed for the University of Newcastle. The P
 
 ## Please Read The Report File for Details
 
-Background:  
+**Background**
 
-BIA Incorporated is an online sales company which operates out of ten different locations in Australia. In the recent past, company has experienced a drop in sales. They have not been able to make any profit lately. Hence, the need to consolidate its operation and adopt some cost cutting measures. In order facilitate this process, the company wishes to undertake a performance evaluation exercise. As a result of the prior business Intelligence gathering initiative BIA now has a database which is used for sales reporting. The company would like to explore the option of enhancing its database such that it can perform some additional performance evaluation and monitoring on the sales data.  
+BIA Incorporated is an online sales company operating from ten locations in Australia. The company has experienced a recent downturn in sales and has failed to make a profit, prompting a need to consolidate operations and implement cost-cutting measures. To facilitate this process, BIA has initiated a performance evaluation exercise. With the help of its existing sales reporting database, BIA seeks to enhance its data model to conduct more detailed performance analysis and monitoring.  
 
-Objective 
+**Objective** 
 
-This report proposes an enhancement to the existing data model to enable analysis and reporting at location level. Additionally, it aims to provide report on recent sales trends, some predictions of sales in the next year. It also attempts to identify the most and least popular sold items in each store and for the company. In the final section of the report tries to provide ranking to the Offices based on its sales performance and some suggestion around which office can be closed. This report is to be presented to CIO at BIA Inc. 
+The primary goal of this report is to propose enhancements to the existing data model to allow analysis and reporting at the location level. Additionally, the report aims to identify recent sales trends, predict sales for the next year, determine the most and least popular items across the company, and rank the locations based on sales performance. Ultimately, the findings and recommendations in this report will guide decision-making, including the potential closure of underperforming offices. 
 
-Major Findings: 
+**Major Findings**
 
-When measured based on overall KPI, the Wagga Wagga branch is determined to be top performing location while Dubbo is ranked at the bottom. 
+- **Top Performing Location:** The Wagga Wagga branch is ranked as the top-performing location based on overall Key Performance Indicators (KPIs).
+- **Least Performing Location:** The Dubbo branch is identified as the lowest-ranking location.
+- **Sales Forecast for Next Year:** The projected sales for BIA Incorporated for the upcoming year are $12,610,000.
+- **Most Popular Item:** The mitre saw is identified as the best-selling item across the company.
+- **Least Popular Item:** The least sold item is the 6mm drill bit. 
 
-The forecasted sale for the whole company for next year is $12,610,000.  
+**Recommendations**
 
-The most in demand item is mitre saw whereas the least sold item is drill bit 6mm for the company as a whole 
+- **Descriptive and Predictive Analysis:** Conduct extended analysis on sales data over multiple years to better understand trends and ensure accurate forecasts.
+- **Closure of Dubbo Office:** Consider closing the Dubbo location due to its consistent underperformance against KPIs.
+- **Expand Data Collection:** Gather more comprehensive data, such as customer interactions, expenses, and marketing costs, to support more informed analysis and decision-making.
+- **Review Product Stocking:** Based on the analysis of best and worst-selling items, adjust inventory to optimize sales performance.
+- **Regular Performance Monitoring:** Implement a quarterly review process to monitor branch performance against KPIs, allowing for timely corrective actions.
 
-Recommendations 
-
-Perform descriptive and predictive analysis on sales data over a longer period of time, not just one year and reconcile the findings. 
-
-Close Dubbo office/store location for BIA Inc as it is ranked as least performing when measured against overall KPI 
-
-Capture more data for analysis and identifying trends. (e.g., customer interaction, expenses, marketing expenses etc.)  
-
-Identify the best and worst selling items from the analysis and take drastic decision in stocking those items.  
-
-Actively follow the KPI analysis (if possible, quarterly) in monitoring each branches’ performance.  
+The findings and recommendations presented in this report will guide BIA Incorporated's strategic decisions regarding sales performance, branch operations, and inventory management, contributing to the company's overall profitability and sustainability.
 
 ### Directions to Run Project
 
